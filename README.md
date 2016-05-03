@@ -1,6 +1,6 @@
 # _My First Web Page_
 
-#### _Practice Web page for Epicodus class_, 05.02.2016_
+#### _Practice Web page for Epicodus class_, 05.02.2016
 
 #### By _**Lauren Burnett**_
 
